@@ -1,0 +1,7 @@
+{
+  "name": "side_menu_app",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react"
+}
